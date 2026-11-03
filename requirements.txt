@@ -1,0 +1,7 @@
+fastapi<0.116
+uvicorn
+pydantic
+pandas
+scikit-learn
+pytest
+httpx<1
